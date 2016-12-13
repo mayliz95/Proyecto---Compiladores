@@ -1,5 +1,5 @@
 # Proyecto-Compiladores y Lenguajes
-Priemra parte
+Primera parte
 Integrantes:  David  Moreno 
               Mayra Rosero
               
